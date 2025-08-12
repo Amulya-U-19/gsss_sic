@@ -1,0 +1,2 @@
+How floating pointing numbers are stored using IEEE standards 
+Which are the two operators  that is sufficient to use in all 6 relational operator.
