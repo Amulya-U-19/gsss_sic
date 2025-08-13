@@ -11,3 +11,5 @@
 4.value error :when we are trying cast value into an another type
   eg num=int(sys.arcgv[0])
    invalid literal for int() with base 10:
+
+5.type error :range excepted at least 1 argument,got 0

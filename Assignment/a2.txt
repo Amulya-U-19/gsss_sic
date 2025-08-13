@@ -6,3 +6,4 @@ div.mozilla org  (to learn html,css)
 docs.python.org   (to learn python)
 docs.oracle.org (to learn java)
 IBM,cisco,micro:C , C++
+can we modify list which is  an element in the tuple

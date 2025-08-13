@@ -1,5 +1,3 @@
-ASSIGNMENTS:
-
 DAY1:
 Conditional Programming:
 Tax Calculation problem.

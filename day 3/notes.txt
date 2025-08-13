@@ -10,3 +10,13 @@ start from 1(user given start value) and end with 9(one before 10)
 
 range(2, 100, 5)
 start from 2(user given start value) and end with 99(one before 100)
+
+correct way to call range,but no o/p
+range(10,10)
+range(0)
+range(20,5)
+
+incorrect way to call  range:(we get exception)
+range()
+range(10,20,'abc')
+range('abc')
