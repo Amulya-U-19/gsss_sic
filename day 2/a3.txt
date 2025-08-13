@@ -1,0 +1,8 @@
+learn the output  formatting for list and string
+why in python we do not have inacrement and decrement operation
+leran about _ _main _ _ in python
+what is pip 3 and pythonic
+div.mozilla org  (to learn html,css)
+docs.python.org   (to learn python)
+docs.oracle.org (to learn java)
+IBM,cisco,micro:C , C++

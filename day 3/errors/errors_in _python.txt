@@ -1,0 +1,13 @@
+1. syntax_error
+
+
+2.name _error :if the letter or the name is not defined
+   eg num=6;print n but n is not defined
+
+
+3.index error:
+
+
+4.value error :when we are trying cast value into an another type
+  eg num=int(sys.arcgv[0])
+   invalid literal for int() with base 10:
