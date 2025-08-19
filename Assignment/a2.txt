@@ -7,3 +7,9 @@ docs.python.org   (to learn python)
 docs.oracle.org (to learn java)
 IBM,cisco,micro:C , C++
 can we modify list which is  an element in the tuple
+how to pass command line argument into my range() function
+why do we need file name in argv ? what is the purpose and use . 
+why in python there is no implicit typecasting  
+why there is no index error while slicing
+implement a function find which mimics find method string calss.
+why does the output show 0 when empty string is found in the String

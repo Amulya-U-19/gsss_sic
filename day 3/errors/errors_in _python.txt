@@ -5,7 +5,7 @@
    eg num=6;print n but n is not defined
 
 
-3.index error:
+3.index error:index out of t he range(If the given value is not in the rangethn it shows index error )
 
 
 4.value error :when we are trying cast value into an another type
@@ -13,3 +13,5 @@
    invalid literal for int() with base 10:
 
 5.type error :range excepted at least 1 argument,got 0
+
+6.Zero divisor error:50//0
