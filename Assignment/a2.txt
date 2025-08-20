@@ -11,5 +11,5 @@ how to pass command line argument into my range() function
 why do we need file name in argv ? what is the purpose and use . 
 why in python there is no implicit typecasting  
 why there is no index error while slicing
-implement a function find which mimics find method string calss.
+implement a function find which mimics find method string class
 why does the output show 0 when empty string is found in the String
