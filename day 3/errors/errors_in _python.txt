@@ -15,3 +15,4 @@
 5.type error :range excepted at least 1 argument,got 0
 
 6.Zero divisor error:50//0
+7.Recursion error :maximum Recursion depth exceeded while calling the python
