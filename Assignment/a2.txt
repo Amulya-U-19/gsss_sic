@@ -13,3 +13,5 @@ why in python there is no implicit typecasting
 why there is no index error while slicing
 implement a function find which mimics find method string class
 why does the output show 0 when empty string is found in the String
+learn about cohersive(high and low cohersive) and coupling
+
